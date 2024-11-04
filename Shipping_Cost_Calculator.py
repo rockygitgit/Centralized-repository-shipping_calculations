@@ -1,4 +1,3 @@
-# Here is another update by rockygitgit
  # Here is a new update by rockygitgit
 # Shipping Cost Calculator
 
